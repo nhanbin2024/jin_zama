@@ -1,6 +1,5 @@
 # jin_zamaCommit 1 line
 # jin_zamaCommit 1 line
-# jin_zamaCommit 1 line
   - [Safari Extension](#safari-extension) 
   - [Today](#today) 
   - [Widget](#widget) 
