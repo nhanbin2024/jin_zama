@@ -10,3 +10,6 @@
 - [File](#file) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
+- [File](#file) 
+- [Finance](#finance) 
+  - [Cryptocurrency](#cryptocurrency) 
